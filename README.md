@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>My GitHub Page</title>
+  <title> My GitHub Page </title>
 </head>
 <body>
   <h1>Welcome to My GitHub Page</h1>
