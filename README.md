@@ -20,8 +20,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>Your Name</strong></td>
-        <td>Hello, I am a junior in the BS IT program. I enjoy coding Python and R.</td>
+        <td><strong>Ethan Lilley</strong></td>
+        <td>Hello, I am a junior in the BS Cyber program. I enjoy coding Python and R.</td>
         <td>Programming, making websites</td>
       </tr>
     </tbody>
