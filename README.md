@@ -25,10 +25,6 @@
       </tr>
     </tbody>
   </table>
-
-  <p>
-    <small>Instructions: put this file in a repository named <code>yourusername.github.io</code>. Then visit <code>https://yourusername.github.io</code>.</small>
-  </p>
 </body>
 </html>
 
